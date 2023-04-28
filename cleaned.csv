@@ -1,127 +1,127 @@
 ,EducationSector,TargetIndividualProject,Age,Gender,City,Influenced,Perseverance,DesireToTakeInitiative,Competitiveness,SelfReliance,StrongNeedToAchieve,SelfConfidence,GoodPhysicalHealth,MentalDisorder,KeyTraits,ReasonsForLack,TargetEntCompetency
-0,Engineering Sciences,False,19,M,True,False,2,2,3,3,2,2,3,True,Passion,,False
+0,Engineering Sciences,False,19,M,True,False,2,2,3,3,2,2,3,True,Passion,,True
 1,Engineering Sciences,True,22,M,False,True,3,3,3,4,4,3,4,True,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 2,Engineering Sciences,False,18,M,True,False,3,4,3,3,3,4,4,False,Passion,Not willing to start a venture in India and waiting for future relocation,False
 3,Engineering Sciences,True,20,M,True,True,3,3,3,3,4,3,3,False,Rrresilience,Not able to take a Financial Risk,False
-4,Engineering Sciences,True,19,M,True,True,2,3,3,3,4,3,2,True,Vision,,False
-5,Engineering Sciences,False,19,M,True,True,3,3,3,3,3,3,3,False,Positivity,,False
-6,Engineering Sciences,True,19,M,True,True,3,2,3,3,4,1,1,False,Work Ethic,,False
+4,Engineering Sciences,True,19,M,True,True,2,3,3,3,4,3,2,True,Vision,,True
+5,Engineering Sciences,False,19,M,True,True,3,3,3,3,3,3,3,False,Positivity,,True
+6,Engineering Sciences,True,19,M,True,True,3,2,3,3,4,1,1,False,Work Ethic,,True
 7,Engineering Sciences,False,20,M,True,True,4,2,4,4,5,3,4,True,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",False
 8,Others,True,20,M,True,True,2,3,3,1,2,2,2,False,Passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",False
-9,Engineering Sciences,True,17,M,True,True,2,3,2,1,4,3,3,True,Work Ethic,,False
+9,Engineering Sciences,True,17,M,True,True,2,3,2,1,4,3,3,True,Work Ethic,,True
 10,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,False,3,3,3,4,3,5,4,False,Resilience,Not willing to start a venture in India and waiting for future relocation,False
-11,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,3,3,4,4,5,4,5,False,Passion,,False
+11,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,3,3,4,4,5,4,5,False,Passion,,True
 12,Engineering Sciences,True,19,M,True,True,4,4,4,4,4,4,3,True,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-13,Engineering Sciences,False,21,M,True,True,4,3,4,4,5,4,4,False,Vision,,False
-14,Others,False,20,M,False,True,2,1,2,3,3,2,3,False,Passion,,False
-15,Engineering Sciences,False,18,M,True,True,3,4,3,3,4,4,5,False,Positivity,,False
+13,Engineering Sciences,False,21,M,True,True,4,3,4,4,5,4,4,False,Vision,,True
+14,Others,False,20,M,False,True,2,1,2,3,3,2,3,False,Passion,,True
+15,Engineering Sciences,False,18,M,True,True,3,4,3,3,4,4,5,False,Positivity,,True
 16,Engineering Sciences,True,20,M,True,True,3,2,3,2,3,2,2,True,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Parental Pressure",False
 17,Engineering Sciences,False,21,M,True,False,4,3,4,4,4,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-18,Engineering Sciences,False,19,M,True,True,4,4,4,5,5,3,4,False,passion,,False
+18,Engineering Sciences,False,19,M,True,True,4,4,4,5,5,3,4,False,passion,,True
 19,Engineering Sciences,False,20,F,True,True,3,4,4,5,5,2,4,True,Passion,"Academic Pressure, Lack of Knowledge, Mental Block",False
 20,Engineering Sciences,False,19,M,True,False,1,3,2,3,3,2,3,True,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 21,Engineering Sciences,False,21,F,True,True,4,5,4,4,5,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-22,Engineering Sciences,False,19,M,True,True,2,3,3,2,3,2,3,False,Vision,,False
-23,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,5,5,5,5,5,5,5,False,Vision,,False
+22,Engineering Sciences,False,19,M,True,True,2,3,3,2,3,2,3,False,Vision,,True
+23,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,5,5,5,5,5,5,5,False,Vision,,True
 24,Engineering Sciences,True,20,M,True,True,3,3,3,4,3,3,3,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 25,Engineering Sciences,False,18,M,True,True,3,4,3,4,5,4,4,False,Vision,Lack of Knowledge,False
-26,"Art, Music or Design",True,21,M,True,True,3,3,3,3,3,3,3,False,Passion,,False
+26,"Art, Music or Design",True,21,M,True,True,3,3,3,3,3,3,3,False,Passion,,True
 27,"Economic Sciences, Business Studies, Commerce and Law",False,20,M,True,False,4,4,4,4,4,4,4,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-28,"Economic Sciences, Business Studies, Commerce and Law",False,23,F,True,True,2,3,3,3,3,3,3,False,Work Ethic,,False
-29,Engineering Sciences,False,18,M,True,True,4,4,4,5,5,4,3,False,Passion,,False
-30,"Economic Sciences, Business Studies, Commerce and Law",True,17,M,True,True,3,5,2,4,5,3,5,True,Work Ethic,,False
+28,"Economic Sciences, Business Studies, Commerce and Law",False,23,F,True,True,2,3,3,3,3,3,3,False,Work Ethic,,True
+29,Engineering Sciences,False,18,M,True,True,4,4,4,5,5,4,3,False,Passion,,True
+30,"Economic Sciences, Business Studies, Commerce and Law",True,17,M,True,True,3,5,2,4,5,3,5,True,Work Ethic,,True
 31,Engineering Sciences,False,18,M,True,True,3,3,4,3,3,3,3,False,Work Ethic,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",False
-32,Humanities and Social Sciences,False,19,M,True,True,4,4,4,4,4,4,4,False,Vision,,False
+32,Humanities and Social Sciences,False,19,M,True,True,4,4,4,4,4,4,4,False,Vision,,True
 33,Engineering Sciences,True,22,M,False,False,4,3,5,5,4,2,4,False,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Parental Pressure, Mental Block",False
-34,Engineering Sciences,False,19,M,True,True,3,3,3,4,5,5,3,False,Positivity,,False
+34,Engineering Sciences,False,19,M,True,True,3,3,3,4,5,5,3,False,Positivity,,True
 35,"Economic Sciences, Business Studies, Commerce and Law",True,21,M,True,True,4,4,3,4,4,3,5,False,Passion,"Unwillingness to take risk, Lack of Knowledge, Not able to take a Financial Risk",False
 36,Engineering Sciences,False,19,M,True,False,3,4,4,3,3,4,3,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Unwillingness to take risk, Lack of Knowledge",False
-37,"Economic Sciences, Business Studies, Commerce and Law",False,23,M,False,True,5,4,4,3,5,4,4,False,Passion,,False
+37,"Economic Sciences, Business Studies, Commerce and Law",False,23,M,False,True,5,4,4,3,5,4,4,False,Passion,,True
 38,Engineering Sciences,False,18,M,True,False,3,4,4,5,5,3,5,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",False
 39,Engineering Sciences,False,21,M,True,False,3,4,3,3,3,4,4,False,Positivity,Lack of Knowledge,False
-40,Engineering Sciences,False,18,M,False,True,3,4,2,3,3,4,4,False,Positivity,,False
+40,Engineering Sciences,False,18,M,False,True,3,4,2,3,3,4,4,False,Positivity,,True
 41,"Art, Music or Design",True,20,M,True,False,4,1,3,4,5,2,2,True,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-42,Engineering Sciences,True,26,M,False,True,2,3,2,3,3,2,3,True,Vision,,False
-43,Engineering Sciences,False,20,F,True,True,5,4,5,5,5,4,5,False,Positivity,,False
+42,Engineering Sciences,True,26,M,False,True,2,3,2,3,3,2,3,True,Vision,,True
+43,Engineering Sciences,False,20,F,True,True,5,4,5,5,5,4,5,False,Positivity,,True
 44,Engineering Sciences,False,20,F,False,False,5,4,5,5,4,5,4,True,Passion,"Academic Pressure, Lack of Knowledge",False
-45,Engineering Sciences,True,21,M,True,False,4,4,5,5,4,4,3,False,Positivity,,False
+45,Engineering Sciences,True,21,M,True,False,4,4,5,5,4,4,3,False,Positivity,,True
 46,Engineering Sciences,True,20,F,True,False,5,3,4,4,5,3,3,False,Work Ethic,Unwillingness to take risk,False
 47,Others,True,20,M,True,True,4,5,5,4,4,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-48,"Medicine, Health Sciences",True,19,F,True,True,1,1,1,1,1,1,1,False,Positivity,,False
+48,"Medicine, Health Sciences",True,19,F,True,True,1,1,1,1,1,1,1,False,Positivity,,True
 49,Engineering Sciences,True,21,F,True,True,4,5,5,5,5,4,4,True,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-50,Engineering Sciences,True,20,M,True,True,2,2,2,3,3,3,2,False,Vision,,False
-51,Engineering Sciences,True,20,F,True,True,5,5,5,4,5,4,4,False,Positivity,,False
+50,Engineering Sciences,True,20,M,True,True,2,2,2,3,3,3,2,False,Vision,,True
+51,Engineering Sciences,True,20,F,True,True,5,5,5,4,5,4,4,False,Positivity,,True
 52,"Teaching Degree (e.g., B.Ed)",False,19,M,True,True,3,2,2,2,3,1,2,False,Work Ethic,"Academic Pressure, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk",False
-53,Engineering Sciences,True,21,M,True,True,4,5,5,5,4,5,5,False,Work Ethic,,False
-54,Engineering Sciences,True,19,M,True,True,4,4,5,5,5,5,5,True,Passion,,False
+53,Engineering Sciences,True,21,M,True,True,4,5,5,5,4,5,5,False,Work Ethic,,True
+54,Engineering Sciences,True,19,M,True,True,4,4,5,5,5,5,5,True,Passion,,True
 55,Engineering Sciences,False,20,F,True,False,3,4,4,5,4,3,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 56,Engineering Sciences,False,20,F,True,True,3,4,3,5,4,5,3,False,Positivity,"Lack of Knowledge, Not willing to start a venture in India and waiting for future relocation",False
 57,Engineering Sciences,True,19,M,True,False,3,3,3,4,2,4,4,True,Work Ethic,Not willing to start a venture in India and waiting for future relocation,False
-58,Engineering Sciences,True,20,M,True,True,3,5,5,4,5,2,4,True,Passion,,False
+58,Engineering Sciences,True,20,M,True,True,3,5,5,4,5,2,4,True,Passion,,True
 59,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,3,4,3,3,4,3,4,True,Work Ethic,Not willing to start a venture in India and waiting for future relocation,False
-60,Engineering Sciences,True,19,F,True,False,4,5,4,4,5,5,3,True,Positivity,,False
+60,Engineering Sciences,True,19,F,True,False,4,5,4,4,5,5,3,True,Positivity,,True
 61,Engineering Sciences,False,19,M,True,True,3,5,4,5,5,5,3,False,Positivity,Academic Pressure,False
 62,Engineering Sciences,False,20,M,True,True,5,5,5,5,5,5,5,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",False
-63,Engineering Sciences,True,19,M,True,True,2,3,1,2,2,1,3,False,Passion,,False
-64,Engineering Sciences,True,22,M,False,False,5,5,5,5,5,5,5,False,Positivity,,False
+63,Engineering Sciences,True,19,M,True,True,2,3,1,2,2,1,3,False,Passion,,True
+64,Engineering Sciences,True,22,M,False,False,5,5,5,5,5,5,5,False,Positivity,,True
 65,Engineering Sciences,False,19,M,False,True,4,5,5,5,4,4,5,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-66,Engineering Sciences,True,20,M,True,True,3,4,4,3,4,3,5,False,Work Ethic,,False
+66,Engineering Sciences,True,20,M,True,True,3,4,4,3,4,3,5,False,Work Ethic,,True
 67,Mathematics or Natural Sciences,False,20,M,True,True,4,4,3,4,4,3,5,False,Positivity,Lack of Knowledge,False
-68,"Art, Music or Design",True,24,M,True,True,4,5,5,4,4,4,5,True,Work Ethic,,False
+68,"Art, Music or Design",True,24,M,True,True,4,5,5,4,4,4,5,True,Work Ethic,,True
 69,Engineering Sciences,False,19,M,True,True,2,2,3,3,3,1,2,False,Resilience,Unwillingness to take risk,False
 70,Engineering Sciences,False,19,M,True,True,2,2,3,2,3,3,2,False,Resilience,Lack of Knowledge,False
-71,Engineering Sciences,False,20,M,True,True,4,4,5,4,4,4,4,False,Positivity,,False
+71,Engineering Sciences,False,20,M,True,True,4,4,5,4,4,4,4,False,Positivity,,True
 72,"Medicine, Health Sciences",False,20,F,True,True,4,4,3,4,5,3,3,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 73,Engineering Sciences,True,21,F,True,False,2,2,2,3,2,2,2,True,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-74,Engineering Sciences,False,19,M,True,True,5,5,3,5,5,3,3,True,Positivity,,False
+74,Engineering Sciences,False,19,M,True,True,5,5,3,5,5,3,3,True,Positivity,,True
 75,Others,True,21,F,True,False,4,4,5,4,3,3,3,False,Passion,Academic Pressure,False
-76,Engineering Sciences,True,20,M,True,True,3,4,4,4,5,4,5,True,Vision,,False
+76,Engineering Sciences,True,20,M,True,True,3,4,4,4,5,4,5,True,Vision,,True
 77,Engineering Sciences,False,19,M,False,True,4,5,4,5,5,4,4,True,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-78,Engineering Sciences,True,19,M,True,True,5,5,5,4,4,5,5,True,Resilience,,False
-79,Engineering Sciences,True,21,M,True,False,2,3,3,3,3,3,3,False,Positivity,,False
-80,Engineering Sciences,False,19,M,True,True,3,3,3,3,4,2,3,False,Positivity,,False
-81,Others,True,19,F,True,True,4,4,4,4,4,5,4,False,Vision,,False
+78,Engineering Sciences,True,19,M,True,True,5,5,5,4,4,5,5,True,Resilience,,True
+79,Engineering Sciences,True,21,M,True,False,2,3,3,3,3,3,3,False,Positivity,,True
+80,Engineering Sciences,False,19,M,True,True,3,3,3,3,4,2,3,False,Positivity,,True
+81,Others,True,19,F,True,True,4,4,4,4,4,5,4,False,Vision,,True
 82,"Economic Sciences, Business Studies, Commerce and Law",True,19,F,False,True,3,5,4,4,4,5,5,False,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 83,Engineering Sciences,False,19,M,True,False,4,5,4,4,5,5,4,False,Positivity,Lack of Knowledge,False
 84,"Economic Sciences, Business Studies, Commerce and Law",False,18,M,True,True,4,4,3,4,5,5,4,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge",False
-85,Engineering Sciences,False,20,M,True,True,1,1,1,5,5,5,5,False,Positivity,,False
+85,Engineering Sciences,False,20,M,True,True,1,1,1,5,5,5,5,False,Positivity,,True
 86,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,False,True,4,5,5,5,5,4,5,False,Passion,"Lack of Knowledge, Not able to take a Financial Risk",False
-87,Engineering Sciences,True,20,M,True,True,4,4,4,4,4,4,4,False,Positivity,,False
+87,Engineering Sciences,True,20,M,True,True,4,4,4,4,4,4,4,False,Positivity,,True
 88,Others,False,20,M,True,True,3,2,3,2,2,3,3,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 89,Engineering Sciences,True,20,M,True,False,4,5,4,5,5,3,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-90,Humanities and Social Sciences,True,21,M,True,True,4,3,3,5,4,3,4,False,Positivity,,False
+90,Humanities and Social Sciences,True,21,M,True,True,4,3,3,5,4,3,4,False,Positivity,,True
 91,"Economic Sciences, Business Studies, Commerce and Law",True,20,M,False,False,3,4,3,4,5,2,3,False,Vision,Unwillingness to take risk,False
 92,Engineering Sciences,True,22,M,True,True,2,5,5,3,4,4,5,True,Positivity,"Lack of Knowledge, Parental Pressure",False
-93,"Medicine, Health Sciences",True,20,M,True,True,4,5,5,4,4,5,4,False,Positivity,,False
+93,"Medicine, Health Sciences",True,20,M,True,True,4,5,5,4,4,5,4,False,Positivity,,True
 94,Others,False,19,M,True,True,3,3,2,2,3,3,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 95,Engineering Sciences,False,20,M,True,True,3,3,3,4,4,3,4,True,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 96,"Economic Sciences, Business Studies, Commerce and Law",True,18,F,True,False,4,5,5,4,5,4,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 97,Engineering Sciences,False,21,M,False,False,4,4,4,4,4,4,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 98,Others,False,22,M,True,True,2,2,3,3,3,3,3,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-99,Engineering Sciences,False,19,M,False,True,5,4,5,5,5,4,3,False,Vision,,False
+99,Engineering Sciences,False,19,M,False,True,5,4,5,5,5,4,3,False,Vision,,True
 100,"Economic Sciences, Business Studies, Commerce and Law",False,19,F,True,True,4,3,3,4,5,4,3,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge",False
 101,Language and Cultural Studies,False,19,M,False,True,3,5,3,3,5,5,2,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not willing to start a venture in India and waiting for future relocation",False
-102,Others,False,19,M,True,True,4,3,3,4,5,5,5,False,Passion,,False
+102,Others,False,19,M,True,True,4,3,3,4,5,5,5,False,Passion,,True
 103,Engineering Sciences,True,20,M,True,True,3,3,5,3,5,4,2,True,Vision,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",False
 104,"Medicine, Health Sciences",True,20,F,True,False,5,4,5,5,5,5,3,True,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-105,Humanities and Social Sciences,False,20,M,True,True,4,4,5,5,5,5,5,False,Passion,,False
+105,Humanities and Social Sciences,False,20,M,True,True,4,4,5,5,5,5,5,False,Passion,,True
 106,Engineering Sciences,True,20,M,True,False,5,4,4,4,4,5,3,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Not able to take a Financial Risk",False
 107,Engineering Sciences,True,22,M,False,True,3,4,4,4,5,5,5,False,Passion,"Parental Pressure, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",False
-108,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,4,3,5,4,5,4,3,True,Work Ethic,,False
+108,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,True,4,3,5,4,5,4,3,True,Work Ethic,,True
 109,"Art, Music or Design",True,20,M,True,True,5,5,5,5,4,5,4,True,Passion,Not willing to start a venture in India and waiting for future relocation,False
 110,"Medicine, Health Sciences",False,20,M,True,False,5,4,4,5,5,4,5,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-111,Humanities and Social Sciences,False,19,F,True,True,3,5,2,4,4,4,2,False,Positivity,,False
+111,Humanities and Social Sciences,False,19,F,True,True,3,5,2,4,4,4,2,False,Positivity,,True
 112,Engineering Sciences,True,20,M,True,True,5,5,4,4,5,5,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge",False
 113,Engineering Sciences,True,20,M,True,False,4,3,5,4,5,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-114,Engineering Sciences,False,19,M,True,True,4,4,4,5,5,4,5,False,Positivity,,False
+114,Engineering Sciences,False,19,M,True,True,4,4,4,5,5,4,5,False,Positivity,,True
 115,Engineering Sciences,True,20,M,True,True,5,5,5,5,4,4,4,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 116,Engineering Sciences,True,18,M,True,False,2,3,3,2,2,2,3,False,Positivity,"Academic Pressure, Not able to take a Financial Risk",False
 117,"Economic Sciences, Business Studies, Commerce and Law",False,17,M,True,False,5,4,4,5,5,5,5,False,Positivity,Not willing to start a venture in India and waiting for future relocation,False
 118,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,False,True,3,4,5,5,5,4,5,False,Work Ethic,Mental Block,False
 119,Engineering Sciences,False,20,M,True,False,2,3,3,2,3,2,2,True,Positivity,"Lack of Knowledge, Not able to take a Financial Risk",False
 120,"Art, Music or Design",False,20,F,True,True,4,4,3,4,5,4,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-121,"Medicine, Health Sciences",True,20,M,True,True,3,5,5,5,3,4,5,False,Vision,,False
-122,Engineering Sciences,True,20,F,True,False,3,4,4,4,4,3,3,False,Passion,,False
+121,"Medicine, Health Sciences",True,20,M,True,True,3,5,5,5,3,4,5,False,Vision,,True
+122,Engineering Sciences,True,20,F,True,False,3,4,4,4,4,3,3,False,Passion,,True
 123,Engineering Sciences,True,21,M,True,True,5,3,4,4,4,4,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",False
 124,Mathematics or Natural Sciences,True,20,M,True,True,2,3,2,1,2,3,2,True,Vision,Not willing to start a venture in India and waiting for future relocation,False
 125,Engineering Sciences,False,20,F,True,False,5,5,5,5,5,5,5,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",False
@@ -131,17 +131,17 @@
 129,"Economic Sciences, Business Studies, Commerce and Law",False,20,M,True,True,3,3,3,3,3,3,3,False,Positivity,"Academic Pressure, Not able to take a Financial Risk",False
 130,Engineering Sciences,True,19,F,True,True,3,5,4,4,5,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 131,Engineering Sciences,True,21,M,True,True,4,3,3,3,4,4,4,False,Passion,Not able to take a Financial Risk,False
-132,Engineering Sciences,True,18,F,True,True,3,4,4,4,5,5,3,False,Passion,,False
+132,Engineering Sciences,True,18,F,True,True,3,4,4,4,5,5,3,False,Passion,,True
 133,Others,False,19,F,True,True,4,5,5,4,5,4,3,False,Passion,Not willing to start a venture in India and waiting for future relocation,False
-134,Engineering Sciences,True,20,M,True,True,3,3,3,4,4,4,4,True,Work Ethic,,False
+134,Engineering Sciences,True,20,M,True,True,3,3,3,4,4,4,4,True,Work Ethic,,True
 135,"Art, Music or Design",True,20,M,True,True,3,3,3,3,3,3,3,False,Passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",False
 136,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,True,False,1,2,1,2,3,2,2,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",False
-137,Engineering Sciences,True,19,M,False,False,5,5,5,5,5,5,5,True,Vision,,False
+137,Engineering Sciences,True,19,M,False,False,5,5,5,5,5,5,5,True,Vision,,True
 138,Others,True,19,M,True,True,3,4,4,4,3,3,4,True,Passion,Not willing to start a venture in India and waiting for future relocation,False
 139,"Economic Sciences, Business Studies, Commerce and Law",False,20,M,False,True,2,2,3,2,3,3,2,True,Resilience,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",False
-140,Engineering Sciences,True,20,M,True,True,4,5,5,5,4,5,4,False,Work Ethic,,False
+140,Engineering Sciences,True,20,M,True,True,4,5,5,5,4,5,4,False,Work Ethic,,True
 141,Engineering Sciences,True,20,M,True,True,3,4,3,5,5,5,5,False,Passion,"Academic Pressure, Lack of Knowledge, Parental Pressure",False
-142,Engineering Sciences,True,20,M,True,False,4,4,4,4,4,4,4,False,Positivity,,False
+142,Engineering Sciences,True,20,M,True,False,4,4,4,4,4,4,4,False,Positivity,,True
 143,Engineering Sciences,True,20,M,True,True,2,2,2,2,2,2,2,False,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",False
 144,"Economic Sciences, Business Studies, Commerce and Law",True,20,M,True,True,3,4,3,5,4,3,2,True,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 145,"Economic Sciences, Business Studies, Commerce and Law",False,21,M,False,True,3,4,3,4,5,3,4,True,Passion,Academic Pressure,False
@@ -150,11 +150,11 @@
 148,Engineering Sciences,True,20,M,False,True,4,4,4,4,5,5,5,False,Positivity,Academic Pressure,False
 149,"Economic Sciences, Business Studies, Commerce and Law",False,18,F,True,True,4,3,4,4,4,5,5,True,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 150,Engineering Sciences,False,22,M,True,False,2,3,2,3,3,3,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-151,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,True,True,2,3,2,3,2,2,1,False,Passion,,False
-152,"Art, Music or Design",False,19,F,True,True,2,2,2,2,2,2,2,True,Positivity,,False
+151,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,True,True,2,3,2,3,2,2,1,False,Passion,,True
+152,"Art, Music or Design",False,19,F,True,True,2,2,2,2,2,2,2,True,Positivity,,True
 153,"Medicine, Health Sciences",False,17,F,True,False,3,2,1,3,3,2,3,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 154,Mathematics or Natural Sciences,False,18,F,True,True,2,1,3,1,2,3,4,False,Work Ethic,Academic Pressure,False
-155,Others,True,20,F,True,False,2,2,2,2,2,1,3,False,Positivity,,False
+155,Others,True,20,F,True,False,2,2,2,2,2,1,3,False,Positivity,,True
 156,Others,True,19,M,True,True,4,5,5,5,5,4,4,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Unwillingness to take risk",False
 157,"Art, Music or Design",False,22,F,True,True,4,3,4,5,5,4,3,False,Positivity,Academic Pressure,False
 158,"Art, Music or Design",True,21,M,True,True,2,1,2,2,2,1,1,False,Vision,Academic Pressure,False
@@ -164,57 +164,57 @@
 162,"Medicine, Health Sciences",True,22,M,False,True,2,1,2,3,2,3,3,True,Vision,"Academic Pressure, Unwillingness to take risk, Not able to take a Financial Risk",False
 163,"Art, Music or Design",True,21,M,False,True,2,2,3,3,3,3,3,False,Passion,Not willing to start a venture in India and waiting for future relocation,False
 164,"Art, Music or Design",True,21,M,True,False,4,4,4,3,4,5,5,False,Passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",False
-165,"Teaching Degree (e.g., B.Ed)",True,18,M,True,True,5,5,5,5,5,5,5,False,Vision,,False
+165,"Teaching Degree (e.g., B.Ed)",True,18,M,True,True,5,5,5,5,5,5,5,False,Vision,,True
 166,"Medicine, Health Sciences",False,19,F,True,False,4,5,5,5,5,5,5,True,Vision,Parental Pressure,False
 167,Others,True,22,F,True,False,3,3,3,3,3,3,2,False,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 168,"Art, Music or Design",False,21,F,True,True,4,5,5,5,5,4,2,True,Positivity,Academic Pressure,False
-169,"Teaching Degree (e.g., B.Ed)",True,20,M,True,True,4,4,4,4,4,4,4,True,Work Ethic,,False
+169,"Teaching Degree (e.g., B.Ed)",True,20,M,True,True,4,4,4,4,4,4,4,True,Work Ethic,,True
 170,Engineering Sciences,True,18,F,True,True,4,3,4,4,3,3,4,False,Passion,Lack of Knowledge,False
 171,Engineering Sciences,False,18,M,False,True,3,3,4,4,4,3,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-172,"Art, Music or Design",True,21,M,True,True,3,4,4,4,5,4,5,True,Passion,,False
+172,"Art, Music or Design",True,21,M,True,True,3,4,4,4,5,4,5,True,Passion,,True
 173,"Art, Music or Design",True,19,F,True,False,2,2,2,2,1,2,2,False,Passion,Not able to take a Financial Risk,False
-174,Others,True,20,M,True,True,2,3,3,3,3,3,3,False,Work Ethic,,False
-175,Engineering Sciences,True,20,M,False,True,2,1,1,2,3,1,3,False,Passion,,False
+174,Others,True,20,M,True,True,2,3,3,3,3,3,3,False,Work Ethic,,True
+175,Engineering Sciences,True,20,M,False,True,2,1,1,2,3,1,3,False,Passion,,True
 176,Engineering Sciences,True,20,F,True,True,4,5,5,4,5,5,5,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not able to take a Financial Risk",False
-177,"Art, Music or Design",True,19,F,True,True,4,5,5,5,5,5,5,False,Passion,,False
-178,Humanities and Social Sciences,False,19,F,False,False,2,2,1,2,2,2,3,False,Positivity,,False
-179,Engineering Sciences,False,18,M,True,True,3,3,2,2,3,3,2,False,Work Ethic,,False
+177,"Art, Music or Design",True,19,F,True,True,4,5,5,5,5,5,5,False,Passion,,True
+178,Humanities and Social Sciences,False,19,F,False,False,2,2,1,2,2,2,3,False,Positivity,,True
+179,Engineering Sciences,False,18,M,True,True,3,3,2,2,3,3,2,False,Work Ethic,,True
 180,Others,True,20,F,True,False,4,5,4,4,3,5,5,True,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",False
 181,Engineering Sciences,True,22,M,False,True,4,3,4,4,5,3,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",False
-182,Others,True,19,M,True,True,4,3,3,4,4,3,3,False,Work Ethic,,False
-183,Engineering Sciences,True,19,M,True,True,3,4,5,5,4,4,2,False,Work Ethic,,False
-184,"Economic Sciences, Business Studies, Commerce and Law",False,20,M,True,True,4,5,5,4,5,4,5,True,Passion,,False
-185,"Art, Music or Design",True,19,M,True,True,3,4,3,4,5,4,4,False,Vision,,False
+182,Others,True,19,M,True,True,4,3,3,4,4,3,3,False,Work Ethic,,True
+183,Engineering Sciences,True,19,M,True,True,3,4,5,5,4,4,2,False,Work Ethic,,True
+184,"Economic Sciences, Business Studies, Commerce and Law",False,20,M,True,True,4,5,5,4,5,4,5,True,Passion,,True
+185,"Art, Music or Design",True,19,M,True,True,3,4,3,4,5,4,4,False,Vision,,True
 186,Engineering Sciences,False,17,M,True,True,5,5,4,4,5,5,4,False,Positivity,"Lack of Knowledge, Not able to take a Financial Risk",False
 187,Others,False,21,F,False,True,3,1,2,3,2,2,1,True,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
 188,"Economic Sciences, Business Studies, Commerce and Law",True,20,F,True,False,4,4,4,4,4,4,2,True,Work Ethic,Academic Pressure,False
 189,"Economic Sciences, Business Studies, Commerce and Law",False,18,F,True,False,4,5,3,2,3,1,1,True,Passion,"Lack of Knowledge, Mental Block, Not able to take a Financial Risk",False
 190,Engineering Sciences,False,17,M,False,True,3,4,4,2,3,2,3,False,Passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",False
-191,Others,True,21,F,True,False,4,5,4,5,4,4,4,True,Positivity,,False
-192,Others,True,19,F,False,True,4,4,4,5,4,4,4,False,Passion,,False
-193,"Art, Music or Design",True,20,M,True,True,2,3,2,2,2,3,2,False,Positivity,,False
-194,Engineering Sciences,False,20,M,True,True,4,4,4,4,4,4,4,False,Work Ethic,,False
-195,Engineering Sciences,False,19,M,True,True,5,5,5,5,5,5,5,False,Positivity,,False
+191,Others,True,21,F,True,False,4,5,4,5,4,4,4,True,Positivity,,True
+192,Others,True,19,F,False,True,4,4,4,5,4,4,4,False,Passion,,True
+193,"Art, Music or Design",True,20,M,True,True,2,3,2,2,2,3,2,False,Positivity,,True
+194,Engineering Sciences,False,20,M,True,True,4,4,4,4,4,4,4,False,Work Ethic,,True
+195,Engineering Sciences,False,19,M,True,True,5,5,5,5,5,5,5,False,Positivity,,True
 196,Engineering Sciences,True,19,F,True,False,3,3,5,4,4,3,3,True,Work Ethic,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",False
-197,Engineering Sciences,True,20,M,True,True,3,4,5,4,4,5,5,False,Positivity,,False
+197,Engineering Sciences,True,20,M,True,True,3,4,5,4,4,5,5,False,Positivity,,True
 198,"Art, Music or Design",True,19,M,True,True,4,3,4,4,4,2,3,False,Passion,Academic Pressure,False
 199,Engineering Sciences,False,19,M,True,False,4,3,4,4,4,2,3,False,Positivity,Unwillingness to take risk,False
-200,Engineering Sciences,True,20,M,True,True,4,4,3,4,4,3,4,False,Work Ethic,,False
-201,Engineering Sciences,False,19,M,False,True,4,3,4,4,4,2,3,False,Positivity,,False
+200,Engineering Sciences,True,20,M,True,True,4,4,3,4,4,3,4,False,Work Ethic,,True
+201,Engineering Sciences,False,19,M,False,True,4,3,4,4,4,2,3,False,Positivity,,True
 202,Mathematics or Natural Sciences,True,17,M,True,True,3,3,3,2,4,3,4,False,Vision,Academic Pressure,False
-203,"Art, Music or Design",True,20,F,True,True,4,4,3,4,4,3,4,True,Positivity,,False
+203,"Art, Music or Design",True,20,F,True,True,4,4,3,4,4,3,4,True,Positivity,,True
 204,Engineering Sciences,True,20,F,True,False,4,4,3,4,4,3,4,False,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-205,Engineering Sciences,True,20,M,True,True,4,4,5,4,4,4,5,True,Positivity,,False
+205,Engineering Sciences,True,20,M,True,True,4,4,5,4,4,4,5,True,Positivity,,True
 206,Engineering Sciences,True,21,M,True,True,3,5,4,4,4,4,3,True,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",False
-207,Engineering Sciences,True,21,F,False,False,2,2,3,2,3,3,2,False,Positivity,,False
-208,Engineering Sciences,False,20,M,True,False,4,5,4,4,5,5,5,False,Vision,,False
+207,Engineering Sciences,True,21,F,False,False,2,2,3,2,3,3,2,False,Positivity,,True
+208,Engineering Sciences,False,20,M,True,False,4,5,4,4,5,5,5,False,Vision,,True
 209,"Economic Sciences, Business Studies, Commerce and Law",True,19,M,True,False,2,2,3,2,2,2,3,False,Positivity,"Lack of Knowledge, Mental Block",False
-210,Engineering Sciences,True,20,F,True,True,2,3,2,2,3,3,2,False,Passion,,False
-211,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,True,True,4,5,5,5,5,5,5,True,Vision,,False
-212,"Art, Music or Design",True,20,F,True,True,4,5,5,4,4,5,5,False,Work Ethic,,False
+210,Engineering Sciences,True,20,F,True,True,2,3,2,2,3,3,2,False,Passion,,True
+211,"Economic Sciences, Business Studies, Commerce and Law",False,19,M,True,True,4,5,5,5,5,5,5,True,Vision,,True
+212,"Art, Music or Design",True,20,F,True,True,4,5,5,4,4,5,5,False,Work Ethic,,True
 213,Engineering Sciences,False,19,M,True,False,3,2,3,3,4,2,4,True,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not able to take a Financial Risk",False
-214,Engineering Sciences,True,19,M,True,True,3,5,4,3,4,4,5,True,Positivity,,False
+214,Engineering Sciences,True,19,M,True,True,3,5,4,3,4,4,5,True,Positivity,,True
 215,Engineering Sciences,True,19,M,True,False,2,2,2,2,2,2,2,False,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure",False
-216,Engineering Sciences,True,22,F,True,True,3,4,4,3,4,4,3,False,Vision,,False
+216,Engineering Sciences,True,22,F,True,True,3,4,4,3,4,4,3,False,Vision,,True
 217,Engineering Sciences,False,19,M,True,False,1,2,2,3,3,2,2,False,Passion,Lack of Knowledge,False
-218,Engineering Sciences,True,18,M,False,True,3,5,3,5,5,5,2,False,Passion,,False
+218,Engineering Sciences,True,18,M,False,True,3,5,3,5,5,5,2,False,Passion,,True
