@@ -13,57 +13,62 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 How to prepare and cleanup data about future entrepreneurs 💪🧹🧼
 
----
-
-# Today's agenda
-
-**How we planned things: ~5mn**
-
-- Initial plans
-
-**How things went: ~5mn**
-
-- Python
-- SQL
-- Final results
-
-**Q&A: ~5mn**
-
----
-# How we planned things (1/3)
-
-- Set up jira, git
-- Looking for duplicates, missing values, (outliers?) and remove them
-    - There is no ID data (name or customerId or so...), so there is no way to know if duplicates are actual data errors or simply redundant data.
-- Turn every "Yes/No" and "1/0" into booleans
-- Change male/females to m/f
+Louis, Huyen
 
 --- 
-# How we planned things (2/3)
 
-- Handle "unknown"s in "city" and "influenced" and "mental disorder:
-    - Are there a lot of them?
-    - If not, replace them with "No"
-    - If yes, turn the whole column to a 3-values column.
-- Turn every float into integers
-- Format column names to PascalCase
+# Dataset:
+
+Excel file with information about The Entrepreneurial Competency in University Students.
+
+There are 219 students in diffirent sectors of education participated in the survey. 
+
+The mesurement is based on their Age, Gender, Perseverance, Desire to take Initiative, Competitiveness, Self Reliance, Strong Need To Achieve, Self Confidence, Good Physical Health etc...
+
 
 ---
-# How we planned things (3/3)
-
-- Write python script
-- Export data to csv
-- Write SQL
-- Analyze our data 🤓
-- Presentation
-
---- 
 # How things went
 
-- Cleaning data
-- Regexes 🥴🤢
-- What we learnt from our data:
-    - 
+- Setting up git
+- Looking for duplicates, missing values and removing them
+    - There is no ID data (name or customerId), so there is no way to know if duplicates are actual data errors or simply redundant data.
+- Turning every "Yes/No" and "1/0" into booleans
+- Changing male/female to M/F
+
+
+---
+- Handling "unknown"s in "City", "Influenced", "MentalDisorder, "TargetIndividualProject" and "TargetEntCompetency":
+    - Are there a lot of them? If not, replacing them with "No" - If yes, turning the whole column to a 3-values column.
+
+        ![Alt text](def_standardize.png)
+---
+- Filling the missing values using KNNImputer
+
+    ![Alt text](KNN.png)
+   
+- Turning every float into integers
+- Formatting column names to PascalCase
+- Writing python script
+- Exporting data to csv
+- Writing SQL
+- Analyzing our data 🤓 --> Presentation
+
+--- 
+# What we learnt from our data:
+   - Using GROUP BY, ORDER BY and AVG from MySQL 
+
+![Alt text](number_students.png)
+![Alt text](avg.png)
+
+
+---
+# Improvements
+- Data Cleaning
+- Some regexes
+
+# Comparison of the initial and final dataset
+- The initial dataset has 198 missing values
+- Final datadet is neat with good information in decision making.
 
 ---
 # <!--fit--> Thank you 🙏❤️
